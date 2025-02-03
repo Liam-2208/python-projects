@@ -1,1 +1,1 @@
-# All Small Python Projects for college 
+# All Python Projects (BIG OR SMALL) for college 
